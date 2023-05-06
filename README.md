@@ -1,2 +1,2 @@
 # BouncyBalls
-> 源自 [BouncyBalls.com](https://BouncyBalls.com)
+> 源自 [BouncyBalls.org](https://BouncyBalls.org)
